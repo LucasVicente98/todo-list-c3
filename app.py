@@ -50,7 +50,7 @@ def edit(id):
     cursor = conn.cursor()
 
     if request.method == 'POST':
-        new_task = request.form['task'][:144]  # Limita o campo a 144 caracteres
+        new_task = request.form['task'][:144]
         cursor.execute('UPDATE tasks SET task = ? WHERE id = ?', (new_task, id))
         conn.commit()
         conn.close()
