@@ -42,9 +42,10 @@ O arquivo `style.css` fornece estilos simples para a apresentação visual do ap
 ## Como Rodar o Projeto Localmente
 
 1. Certifique-se de ter Python instalado.
-2. Instale as dependências usando `pip install -r requirements.txt`.
-3. Execute `python app.py` para iniciar o servidor Flask localmente.
-4. Abra o navegador e acesse `http://localhost:5000`.
+2. Clone o repositório para o seu ambiente local.
+3. Abra um terminal na pasta do projeto.
+4. Execute `python app.py`.
+5. Acesse a aplicação em seu navegador em http://127.0.0.1:5000/.
 
 ## Melhorias Futuras
 
