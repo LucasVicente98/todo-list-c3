@@ -48,12 +48,12 @@ O arquivo `style.css` fornece estilos simples para a apresentação visual do ap
 
 ## Melhorias Futuras
 
-- **Autenticação de Usuário:** Adicione autenticação para que cada usuário tenha sua própria lista de tarefas.
+- **Autenticação de Usuário:** Adicionar autenticação para que cada usuário tenha sua própria lista de tarefas.
 
-- **Notificações:** Implemente notificações para lembrar os usuários de suas tarefas pendentes.
+- **Notificações:** Implementar notificações para lembrar os usuários de suas tarefas pendentes.
 
-- **Melhorias de Design:** Aprimore a aparência do aplicativo com estilos mais modernos e responsivos.
+- **Melhorias de Design:** Aprimorar a aparência do aplicativo com estilos mais responsivos.
 
-- **Comentários e Documentação:** Adicione comentários ao código e uma documentação mais abrangente.
+- **Comentários e Documentação:** Adicionar comentários ao código e uma documentação mais abrangente.
 
 Este projeto serve como uma introdução prática ao desenvolvimento web usando Flask e fornece uma base sólida para futuras expansões e melhorias.
